@@ -2,4 +2,4 @@
 
 Tanium has incorporated this content within their own content set under the 1.6 release.. [ref](https://kb.tanium.com/Release_Notes_Core_Content_(Version_1.6))
 
-**Code should be tested in your environment always. Don't take some stranger's code and assume it will work**
+***Code should be tested in your environment always. Don't take some stranger's code and assume it will work***
